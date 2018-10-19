@@ -10,5 +10,3 @@ The Roomba robot used for this development is currently a retired Roomba 565. It
 
 As this project seems to be the first of the kind on GitHub (e.g. search Roomba+Scratch did not return any result), collaboration and contribution are very welcome!
 
-## HOWTO: Connect Raspberry Pi to Roomba
-
